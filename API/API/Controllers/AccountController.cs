@@ -84,7 +84,7 @@ namespace API.Controllers
             {
                 return BadRequest(result.Errors);
             }
-            return Ok("Your account has been created, you can login!");
+            return Ok(new JsonResult(new {title="Account created", message= "Your account has been created, you can login!" }));//for returnig an JsonObject when a user succesfuly registred
         }
 
 

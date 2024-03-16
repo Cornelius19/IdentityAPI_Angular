@@ -3,6 +3,7 @@ using API.Models;
 using API.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Any;
@@ -57,8 +58,36 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateAudience = false //don't validate audience (Angular Side)
         };
     });
+builder.Services.AddCors();
+
+
+//for generating an array in json response for client(basicaly generates an array with errors if there is 
+builder.Services.Configure<ApiBehaviorOptions>(options =>
+{
+    options.InvalidModelStateResponseFactory = actionContext =>
+    {
+        var errors = actionContext.ModelState //going to the model state
+        .Where(x => x.Value.Errors.Count > 0)//if found some errors >0
+        .SelectMany(x => x.Value.Errors)//we select all this errors
+        .Select(x => x.ErrorMessage).ToList();//and put just error message in a list that is gonna be an array in frontend
+
+        var toReturn = new
+        {
+            Errors = errors
+        };
+
+        return new BadRequestObjectResult(toReturn);
+    };
+});
+
 
 var app = builder.Build();
+
+app.UseCors(opt =>
+{
+    opt.AllowAnyHeader().AllowAnyMethod().AllowCredentials().WithOrigins(builder.Configuration["JWT:ClientUrl"]);
+});
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

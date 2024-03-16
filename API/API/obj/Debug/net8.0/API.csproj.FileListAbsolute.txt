@@ -142,3 +142,4 @@ D:\.NET ASP Core\AngularaSignUp_.netCoreAPI\IdentityAPI\API\API\obj\Debug\net8.0
 D:\.NET ASP Core\AngularaSignUp_.netCoreAPI\IdentityAPI\API\API\obj\Debug\net8.0\API.pdb
 D:\.NET ASP Core\AngularaSignUp_.netCoreAPI\IdentityAPI\API\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 D:\.NET ASP Core\AngularaSignUp_.netCoreAPI\IdentityAPI\API\API\obj\Debug\net8.0\ref\API.dll
+D:\.NET ASP Core\AngularaSignUp_.netCoreAPI\IdentityAPI\API\API\obj\Debug\net8.0\API.sourcelink.json

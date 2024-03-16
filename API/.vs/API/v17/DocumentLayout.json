@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\dtos\\account\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,23 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T13:23:50.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADcAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAB6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:30:36.397Z"
+              "WhenOpened": "2024-03-15T18:30:36.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "JWTService.cs",
               "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Services\\JWTService.cs",
               "RelativeDocumentMoniker": "API\\Services\\JWTService.cs",
@@ -66,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Models\\User.cs",
               "RelativeDocumentMoniker": "API\\Models\\User.cs",
@@ -78,19 +96,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\DTOs\\Account\\RegisterDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\Account\\RegisterDto.cs",
               "ToolTip": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\DTOs\\Account\\RegisterDto.cs",
               "RelativeToolTip": "API\\DTOs\\Account\\RegisterDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T17:43:34.368Z"
+              "WhenOpened": "2024-03-15T17:43:34.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\DTOs\\Account\\LoginDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\Account\\LoginDto.cs",
@@ -102,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\DTOs\\Account\\UserDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\Account\\UserDto.cs",
@@ -120,7 +139,7 @@
               "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Controllers\\AccountController.cs",
               "RelativeToolTip": "API\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAmwE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T17:14:42.03Z",
               "EditorCaption": ""
