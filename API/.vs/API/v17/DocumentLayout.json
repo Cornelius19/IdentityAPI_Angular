@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\dtos\\account\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\dtos\\account\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|d:\\.net asp core\\angularasignup_.netcoreapi\\identityapi\\api\\api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7F5109-D15C-453F-9568-BE57425D6FD6}|API\\API.csproj|solutionrelative:api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:30:36.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Services\\JWTService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\JWTService.cs",
+              "ToolTip": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Services\\JWTService.cs",
+              "RelativeToolTip": "API\\Services\\JWTService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:30:09.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API\\Models\\User.cs",
+              "ToolTip": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Models\\User.cs",
+              "RelativeToolTip": "API\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:12:13.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\DTOs\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\Account\\RegisterDto.cs",
+              "ToolTip": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\DTOs\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "API\\DTOs\\Account\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:43:34.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\DTOs\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\Account\\LoginDto.cs",
+              "ToolTip": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\DTOs\\Account\\LoginDto.cs",
+              "RelativeToolTip": "API\\DTOs\\Account\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:27:56.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\DTOs\\Account\\UserDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\Account\\UserDto.cs",
+              "ToolTip": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\DTOs\\Account\\UserDto.cs",
+              "RelativeToolTip": "API\\DTOs\\Account\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:25:03.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\.NET ASP Core\\AngularaSignUp_.netCoreAPI\\IdentityAPI\\API\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:14:42.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
