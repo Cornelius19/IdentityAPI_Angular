@@ -1,21 +1,35 @@
 <div class="d-flex justify-content-center">
     <div class="col-12 col-lg-5">
         <main class="form-signin">
-            <form>
+            <form [formGroup]="loginForm" (submit)="login()">
                 <div class="text-center mb-4">
                     <h3 class="mb-3 font-weight-normal">Login</h3>
                 </div>
                 <div class="form-floating mb-3">
-                    <input type="text" placeholder="Email" class="form-control">
-                    <label for="email">Email</label>
+                    <input formControlName="userName" type="text" placeholder="Username(your email address)"
+                        class="form-control" [class.is-invalid]="submitted && loginForm.get('userName')?.errors">
+                    <label for="email">Username(your email address)</label>
+                    <span class="text-danger" *ngIf="submitted && loginForm.get('userName')?.hasError('required')">
+                        Email is required
+                    </span>
                 </div>
 
                 <div class="form-floating mb-3">
-                    <input type="password" placeholder="Password" class="form-control">
+                    <input formControlName="password" type="password" placeholder="Password" class="form-control"
+                        [class.is-invalid]="submitted && loginForm.get('password')?.errors">
                     <label for="password">Password</label>
+                    <span class="text-danger" *ngIf="submitted && loginForm.get('password')?.hasError('required')">
+                        Password is required
+                    </span>
                 </div>
+
+                <div class="form-floatin" *ngIf="errorMessager.length > 0">
+                    <app-validation-messages [errorMessages]="errorMessager"></app-validation-messages>
+                </div>
+
+
                 <div class="d-grid mt-4 px-1">
-                    <button class="btn btn-lg btn-info">Log in</button>
+                    <button class="btn btn-lg btn-info" type="submit">Log in</button>
                 </div>
             </form>
 

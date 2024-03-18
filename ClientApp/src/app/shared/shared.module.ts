@@ -5,6 +5,7 @@ import { ValidationMessagesComponent } from './components/errors/validation-mess
 import { Router, RouterModule } from '@angular/router';
 import { ReactiveFormsModule } from '@angular/forms';
 import { NotificationComponent } from './components/modals/notification/notification.component';
+import { ModalModule } from 'ngx-bootstrap/modal';
 
 
 
@@ -17,7 +18,8 @@ import { NotificationComponent } from './components/modals/notification/notifica
   imports: [
     CommonModule,
     RouterModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    ModalModule.forRoot()
   ],
   exports:[
     RouterModule,
